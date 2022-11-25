@@ -3,10 +3,7 @@ import { stats } from "../constants";
 
 const Stats = () => {
   return (
-    <section
-      className="flex justify-center items-center 
-    sm:mb-20 mb-6"
-    >
+    <section className="flex justify-center items-center flex-row flex-wrap sm:mt-20 mt-6">
       {stats.map((stat) => (
         <div
           className="flex-1 flex justify-start items-center 
