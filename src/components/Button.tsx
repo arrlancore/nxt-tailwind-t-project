@@ -7,6 +7,7 @@ const Button = ({ styles }) => {
       font-poppins font-medium
       text-[18px] text-primary
       outline-none bg-blue-gradient
+      rounded-md
       ${styles}`}
       type="button"
     >

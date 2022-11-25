@@ -35,10 +35,10 @@ export default function Homes() {
           <Business />
           <Billing />
           <CardDeal />
+          <Testimonials />
           <Clients />
           <CTA />
           <Footer />
-          <Testimonials />
         </div>
       </div>
     </div>

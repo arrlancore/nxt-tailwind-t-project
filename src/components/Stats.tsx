@@ -20,7 +20,7 @@ const Stats = () => {
           <p
             className="font-poppins font-semibold 
           xs:text-[20px] text-[15px] xs:leading-[26px] 
-          leading-[21px] text-gradient uppercase"
+          leading-[21px] text-gradient uppercase ml-3"
           >
             {stat.title}
           </p>
